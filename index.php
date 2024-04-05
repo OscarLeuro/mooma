@@ -9,28 +9,18 @@
     
 <?php 
 
+
+    include 'components/header.php';
     require 'helpers/read.php';
+    require 'router/router.php';
 
 
 ?>
 
-<H1>CRUD</H1>
-
-
-<?php
-
-while($data = read($query)){
-
-
-    echo $data['nombre'];
-
-}
 
 
 
 
-
-?>
 
 
 </body>
