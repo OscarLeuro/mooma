@@ -3,9 +3,19 @@
 
 
 
+
 ?>
 
+<link rel="stylesheet" href="assets/css/menu.css">
 
-<a href="?page=registrar"> Registrar</a>
+<div class="menu">
 
-<a href="?page=pacientes"> Pacientes</a>
+
+    <a href="">Pacientes</a>
+    <a href="">Control</a>
+
+
+
+
+</div>
+

@@ -22,6 +22,12 @@
 
     }
 
+   
+
+
+
+
+
 
     if(isset($_POST['nombre'])){
 
