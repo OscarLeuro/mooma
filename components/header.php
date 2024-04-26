@@ -10,9 +10,9 @@
 
 <div class="menu">
 
-
-    <a href="">Pacientes</a>
-    <a href="">Control</a>
+    <a href="?page=iniciar">Login</a>
+    <a href="?page=pacientes">Pacientes</a>
+    <a href="?page=control">Control</a>
 
 
 
